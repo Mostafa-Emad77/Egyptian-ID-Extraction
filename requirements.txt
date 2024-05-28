@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+ArabicOcr
+imutils
+numpy
+scikit-image
