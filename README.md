@@ -6,9 +6,6 @@ This project automates the extraction of text data from Egyptian ID cards. It in
 
 The project aims to streamline the process of extracting essential information from Egyptian ID cards. The workflow includes image preprocessing, alignment, ROI extraction, and OCR using ArabicOCR and Tesseract OCR. The extracted data is saved in a structured format for further use.
 
-## Project Structure
-
-
 ## File Descriptions
 
 - **main.py**: The main script that orchestrates the entire process. It clones the necessary repository, processes the image, aligns it, extracts ROIs, and performs OCR.
