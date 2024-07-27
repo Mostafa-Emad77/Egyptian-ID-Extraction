@@ -24,7 +24,7 @@ The project aims to streamline the process of extracting essential information f
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/egyptian-id-extraction.git
+    git clone https://github.com/Mostafa-Emad77/Egyptian-ID-Extraction
     cd egyptian-id-extraction
     ```
 
