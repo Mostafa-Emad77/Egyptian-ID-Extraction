@@ -1,0 +1,324 @@
+2025-03-19 20:35:36,412 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:35:36,412 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:35:36,422 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:35:36,464 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:35:36,465 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:35:36,875 - INFO - Successfully aligned and resized image
+2025-03-19 20:35:36,886 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:35:40,336 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:35:43,882 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:35:48,439 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:35:51,591 - INFO - OCR extraction completed successfully
+2025-03-19 20:35:51,591 - INFO - Image processing completed successfully
+2025-03-19 20:35:51,592 - INFO - Processing completed successfully
+2025-03-19 20:39:36,507 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:39:36,508 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:39:36,517 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:39:36,553 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:39:36,554 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:39:36,932 - INFO - Successfully aligned and resized image
+2025-03-19 20:39:36,937 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:39:40,258 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:39:43,747 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:39:48,349 - INFO - OCR extraction completed and JSON file created
+2025-03-19 20:39:48,349 - INFO - Image processing completed successfully
+2025-03-19 20:39:48,352 - INFO - Processing completed successfully
+2025-03-19 20:42:01,000 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:42:01,001 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:42:01,013 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:42:01,052 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:42:01,054 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:42:01,445 - INFO - Successfully aligned and resized image
+2025-03-19 20:42:01,450 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:42:04,780 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:42:08,139 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:42:12,442 - INFO - OCR extraction completed and JSON file created
+2025-03-19 20:42:12,442 - INFO - Image processing completed successfully
+2025-03-19 20:42:12,444 - INFO - Processing completed successfully
+2025-03-19 20:44:18,424 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:44:18,424 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:44:18,436 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:44:18,471 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:44:18,472 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:44:18,855 - INFO - Successfully aligned and resized image
+2025-03-19 20:44:18,860 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:44:22,113 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:44:25,632 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:44:29,755 - INFO - OCR extraction completed and JSON file created
+2025-03-19 20:44:29,756 - INFO - Image processing completed successfully
+2025-03-19 20:44:29,758 - INFO - Processing completed successfully
+2025-03-19 20:47:33,824 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:47:33,835 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:47:33,873 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:47:33,874 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:47:34,256 - INFO - Successfully aligned and resized image
+2025-03-19 20:47:34,268 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:47:37,484 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:47:40,888 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:47:45,012 - INFO - OCR extraction completed and JSON file created
+2025-03-19 20:47:45,012 - INFO - Image processing completed successfully
+2025-03-19 20:51:26,144 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:51:26,156 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:51:26,198 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:51:26,199 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:51:26,579 - INFO - Successfully aligned and resized image
+2025-03-19 20:51:26,583 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:51:29,743 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:51:33,271 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:51:37,416 - INFO - OCR extraction completed and JSON file created
+2025-03-19 20:51:37,416 - INFO - Image processing completed successfully
+2025-03-19 20:58:15,126 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:58:15,151 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 20:58:15,204 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 20:58:15,206 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 20:58:15,913 - INFO - Successfully aligned and resized image
+2025-03-19 20:58:15,919 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:58:18,995 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:58:22,046 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 20:58:25,545 - INFO - OCR extraction completed and JSON file created
+2025-03-19 20:58:25,546 - INFO - Image processing completed successfully
+2025-03-19 21:01:51,133 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:01:51,151 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:01:51,197 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 21:01:51,198 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 21:01:51,917 - INFO - Successfully aligned and resized image
+2025-03-19 21:01:51,923 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:01:55,047 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:01:58,203 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:02:01,566 - INFO - OCR extraction completed and JSON file created
+2025-03-19 21:02:01,566 - INFO - Image processing completed successfully
+2025-03-19 21:04:47,413 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:04:47,430 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:04:47,461 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 21:04:47,462 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 21:04:47,895 - INFO - Successfully aligned and resized image
+2025-03-19 21:04:47,902 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:04:50,901 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:04:53,982 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:04:57,333 - INFO - OCR extraction completed and JSON file created
+2025-03-19 21:04:57,334 - INFO - Image processing completed successfully
+2025-03-19 21:05:14,956 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:05:14,973 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:05:15,009 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 21:05:15,010 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 21:05:15,633 - INFO - Successfully aligned and resized image
+2025-03-19 21:05:15,639 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:05:18,650 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:05:22,020 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:05:25,810 - INFO - OCR extraction completed and JSON file created
+2025-03-19 21:05:25,810 - INFO - Image processing completed successfully
+2025-03-19 21:28:35,846 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:28:35,847 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:28:35,847 - INFO - Running image rectification...
+2025-03-19 21:28:38,013 - INFO - Successfully read image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:28:38,051 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-19 21:28:38,052 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-19 21:28:38,451 - INFO - Successfully aligned and resized image
+2025-03-19 21:28:38,467 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:28:41,724 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:28:44,893 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-19 21:28:48,346 - INFO - OCR extraction completed and JSON file created
+2025-03-19 21:28:48,346 - INFO - Image processing completed successfully
+2025-03-19 21:28:48,348 - INFO - Processing completed successfully
+2025-03-19 21:30:36,586 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:30:36,587 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:30:36,587 - INFO - Running image rectification...
+2025-03-19 21:30:39,037 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed to produce output image
+2025-03-19 21:30:39,038 - ERROR - Processing failed: Rectification failed to produce output image
+2025-03-19 21:32:30,880 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:32:30,880 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-19 21:32:30,881 - INFO - Running image rectification...
+2025-03-19 21:32:43,130 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed to produce output image
+2025-03-19 21:32:43,130 - ERROR - Processing failed: Rectification failed to produce output image
+2025-03-20 00:30:39,398 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 00:30:39,398 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 00:30:39,399 - INFO - Running image rectification...
+2025-03-20 00:30:51,938 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed to produce output image
+2025-03-20 00:30:51,938 - ERROR - Processing failed: Rectification failed to produce output image
+2025-03-20 01:30:56,603 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:30:56,604 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:30:56,604 - INFO - Running image rectification...
+2025-03-20 01:31:08,356 - INFO - Processing completed successfully
+2025-03-20 01:31:53,408 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:31:53,409 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:31:53,409 - INFO - Running image rectification...
+2025-03-20 01:32:05,495 - INFO - Processing completed successfully
+2025-03-20 01:35:04,792 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:35:04,792 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:35:04,792 - INFO - Running image rectification...
+2025-03-20 01:35:16,422 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:35:16,422 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:35:16,425 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:35:16,451 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:35:16,452 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-20 01:35:16,850 - INFO - Successfully aligned and resized image
+2025-03-20 01:35:16,855 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 01:35:16,856 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:35:20,085 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:35:23,463 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:35:28,243 - INFO - OCR extraction completed and JSON file created
+2025-03-20 01:35:28,243 - INFO - OCR extraction completed successfully
+2025-03-20 01:35:28,245 - INFO - Processing completed successfully
+2025-03-20 01:37:50,192 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:37:50,193 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:37:50,194 - INFO - Running image rectification...
+2025-03-20 01:38:01,641 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:38:01,641 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:38:01,643 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:38:01,670 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:38:01,671 - INFO - Using reference image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\card-rectification\ref.jpg
+2025-03-20 01:38:02,034 - INFO - Successfully aligned and resized image
+2025-03-20 01:38:02,044 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 01:38:02,045 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:38:05,297 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:38:08,661 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:38:13,621 - INFO - OCR extraction completed and JSON file created
+2025-03-20 01:38:13,621 - INFO - OCR extraction completed successfully
+2025-03-20 01:38:13,624 - INFO - Processing completed successfully
+2025-03-20 01:42:03,699 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:42:03,700 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:42:03,700 - INFO - Running image rectification...
+2025-03-20 01:42:15,259 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:42:15,259 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:42:15,261 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:42:15,286 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:42:15,287 - ERROR - ROI extraction failed: 'WindowsPath' object is not subscriptable
+2025-03-20 01:42:15,287 - ERROR - Error processing rectified image: 'WindowsPath' object is not subscriptable
+2025-03-20 01:42:15,287 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: 'WindowsPath' object is not subscriptable
+2025-03-20 01:42:15,287 - ERROR - Processing failed: 'WindowsPath' object is not subscriptable
+2025-03-20 01:43:40,834 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:43:40,834 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:43:40,835 - INFO - Running image rectification...
+2025-03-20 01:43:52,452 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:43:52,453 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:43:52,455 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:43:52,479 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:43:52,490 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 01:43:52,491 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:43:55,878 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:43:59,468 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:44:03,573 - INFO - OCR extraction completed and JSON file created
+2025-03-20 01:44:03,573 - INFO - OCR extraction completed successfully
+2025-03-20 01:44:03,575 - INFO - Processing completed successfully
+2025-03-20 01:47:24,654 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:47:24,655 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:47:24,655 - INFO - Running image rectification...
+2025-03-20 01:47:31,437 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:47:31,437 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:47:31,439 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:47:31,465 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:47:31,475 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 01:47:31,476 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:47:34,892 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:47:38,454 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:47:42,660 - INFO - OCR extraction completed and JSON file created
+2025-03-20 01:47:42,660 - INFO - OCR extraction completed successfully
+2025-03-20 01:47:42,662 - INFO - Processing completed successfully
+2025-03-20 01:48:32,371 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:48:32,371 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:48:32,371 - INFO - Running image rectification...
+2025-03-20 01:48:39,199 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:48:39,200 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:48:39,202 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:48:39,235 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:48:39,239 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 01:48:39,241 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:48:42,644 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:48:46,259 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:48:50,465 - INFO - OCR extraction completed and JSON file created
+2025-03-20 01:48:50,465 - INFO - OCR extraction completed successfully
+2025-03-20 01:48:50,467 - INFO - Processing completed successfully
+2025-03-20 01:51:32,246 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:51:32,247 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:51:32,247 - INFO - Running image rectification...
+2025-03-20 01:51:39,227 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 01:51:39,227 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 01:51:39,229 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 01:51:39,260 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 01:51:39,264 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 01:51:39,265 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:51:42,582 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:51:46,189 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 01:51:50,441 - INFO - OCR extraction completed and JSON file created
+2025-03-20 01:51:50,441 - INFO - OCR extraction completed successfully
+2025-03-20 01:51:50,443 - INFO - Processing completed successfully
+2025-03-20 01:53:41,549 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:53:41,550 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:53:41,550 - INFO - Running image rectification...
+2025-03-20 01:53:47,752 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed to produce output image
+2025-03-20 01:53:47,752 - ERROR - Processing failed: Rectification failed to produce output image
+2025-03-20 01:55:46,754 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:55:46,755 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 01:55:46,755 - INFO - Running image rectification...
+2025-03-20 01:55:53,978 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed to produce output image
+2025-03-20 01:55:53,978 - ERROR - Processing failed: Rectification failed to produce output image
+2025-03-20 02:01:05,243 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:01:05,244 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:01:05,244 - INFO - Running image rectification...
+2025-03-20 02:01:11,397 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed to produce output image
+2025-03-20 02:01:11,397 - ERROR - Processing failed: Rectification failed to produce output image
+2025-03-20 02:03:01,153 - INFO - Starting processing with image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:03:01,154 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:03:01,154 - INFO - Running image rectification...
+2025-03-20 02:03:08,224 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 02:03:08,224 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 02:03:08,229 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 02:03:08,273 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 02:03:08,276 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 02:03:08,278 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:03:11,749 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:03:15,522 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:03:20,156 - INFO - OCR extraction completed and JSON file created
+2025-03-20 02:03:20,157 - INFO - OCR extraction completed successfully
+2025-03-20 02:03:20,158 - INFO - Processing completed successfully
+2025-03-20 02:05:45,880 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:05:45,880 - INFO - Running image rectification...
+2025-03-20 02:05:53,015 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 02:05:53,015 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 02:05:53,021 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 02:05:53,051 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 02:05:53,054 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 02:05:53,056 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:05:56,446 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:06:00,650 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:06:05,616 - INFO - OCR extraction completed and JSON file created
+2025-03-20 02:06:05,616 - INFO - OCR extraction completed successfully
+2025-03-20 02:06:31,184 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:06:31,185 - INFO - Running image rectification...
+2025-03-20 02:06:37,912 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 02:06:37,912 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 02:06:37,922 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 02:06:37,946 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 02:06:37,949 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 02:06:37,951 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:06:41,186 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:06:45,522 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:06:50,249 - INFO - OCR extraction completed and JSON file created
+2025-03-20 02:06:50,249 - INFO - OCR extraction completed successfully
+2025-03-20 02:08:36,735 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:08:36,736 - INFO - Running image rectification...
+2025-03-20 02:08:43,538 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 02:08:43,538 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 02:08:43,543 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 02:08:43,573 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 02:08:43,576 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 02:08:43,578 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:08:46,954 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:08:51,175 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:08:56,147 - INFO - OCR extraction completed and JSON file created
+2025-03-20 02:08:56,148 - INFO - OCR extraction completed successfully
+2025-03-20 02:10:28,631 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:10:28,632 - INFO - Running image rectification...
+2025-03-20 02:10:35,441 - ERROR - Error processing image D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg: Rectification failed. Ensure the image is of good quality and lighting, similar to the provided example.
+2025-03-20 02:10:44,391 - INFO - Processing image: D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\test.jpg
+2025-03-20 02:10:44,392 - INFO - Running image rectification...
+2025-03-20 02:10:51,529 - INFO - Rectified image saved at: result\rectified_test.jpg
+2025-03-20 02:10:51,529 - INFO - Processing rectified image: result\rectified_test.jpg
+2025-03-20 02:10:51,535 - INFO - Successfully read image: result\rectified_test.jpg
+2025-03-20 02:10:51,566 - INFO - Successfully preprocessed image and saved to D:\Faulty Of Engineering\Projects\Egyptian-ID-Extraction\output\thresholded_test.jpg
+2025-03-20 02:10:51,570 - INFO - Extracted ROIs: {'first_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/first_name_roi.jpg'), 'last_name': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/last_name_roi.jpg'), 'address': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/address_roi.jpg'), 'id': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/id_roi.jpg'), 'face': WindowsPath('D:/Faulty Of Engineering/Projects/Egyptian-ID-Extraction/output/face_roi.jpg')}
+2025-03-20 02:10:51,572 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:10:54,887 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:10:58,911 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-03-20 02:11:03,648 - INFO - OCR extraction completed and JSON file created
+2025-03-20 02:11:03,648 - INFO - OCR extraction completed successfully
